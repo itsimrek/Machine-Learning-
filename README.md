@@ -1,2 +1,2 @@
 # Machine-Learning-
-Algortihms used in Machine Learning implemented in Python
+Algorithms used in Machine Learning implemented in Python
